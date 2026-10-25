@@ -1,0 +1,13 @@
+{
+  "name": "aetherbox-proxy",
+  "version": "5.4.0",
+  "description": "AetherBox Personal Proxy & Routing Studio",
+  "scripts": {
+    "build": "echo 'Static HTML ready in www/'"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/cli": "^6.1.2",
+    "@capacitor/core": "^6.1.2"
+  }
+}
